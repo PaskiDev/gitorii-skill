@@ -69,6 +69,8 @@ This skill ensures Claude uses all of it, every time.
 
 MIT — see [LICENSE](LICENSE).
 
+This skill describes how to use [`torii`](https://github.com/paskidev/gitorii) (licensed under TSAL-1.0). The skill itself is MIT-licensed and contains no source code from gitorii.
+
 ## Author
 
 Built by [Pasqual Peñalver Collado](https://paski.dev) (PaskiDev).
